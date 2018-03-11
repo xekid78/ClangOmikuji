@@ -1,0 +1,2 @@
+# ClangOmikuji
+おみくじ
